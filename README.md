@@ -1,4 +1,4 @@
-![lol](https://tracker.6mp.workers.dev/icon.svg)
+[click this to see where all my github profile viewers are](https://tracker.6mp.workers.dev/)
 
 <!--### Hi there 👋-->
 
